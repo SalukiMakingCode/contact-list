@@ -1,0 +1,33 @@
+[
+    {
+        "id" : "1",
+        "firstname" : "David",
+        "lastname" : "Van Goidtsnoven",
+        "address" : "Rue Alfred Tenret, 38",
+        "cp" : "6030",
+        "city" : "Marchienne au pont",
+        "email" : "admin@spiderwolf.net",
+        "phone" : "0485 160 996"
+    },
+    {
+        "id" : "2",
+        "firstname" : "Michel",
+        "lastname": "Latour",
+        "address": "Rue du bois, 15",
+        "cp" : "6000",
+        "city" : "Charleroi",
+        "email" : "michmich@gmail.com",
+        "phone" : "0499 125 236"
+    }
+,
+    {
+        "id" : "3",
+        "firstname" : "Bob",
+        "lastname": "Sponge",
+        "address": "Boulevard des capucines, 155",
+        "cp" : "1000",
+        "city" : "Bruxelles",
+        "email" : "sponge@yahoo.fr",
+        "phone" : "0498 159 753"
+    }
+]
